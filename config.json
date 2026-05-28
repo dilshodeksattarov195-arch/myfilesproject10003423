@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartralidate",
+        "uuid": 3778992,
+        "checksum": "5v58or"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
